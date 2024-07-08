@@ -1,0 +1,1 @@
+from .ex import sum_of_squares
